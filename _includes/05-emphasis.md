@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+##__PROGRAMMING LANGUAGES__
+*PROGRAMMING LANGUAGES* HELPS THE USER TO COMMUNICATE WITH THE __*COMPUTER*__.
+THESE ARE OF DIFFERENT TYPES.
+EACH SINGLE PARTS OF CODE ARE KNOWN AS *__SYNTAX__*.
+THEY ARE THE BASIC UNIT OF PROGRAMMING
