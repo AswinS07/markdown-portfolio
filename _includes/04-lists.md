@@ -6,12 +6,16 @@
 😃
 ## list
 1. programming languages
-  A PYTHON
-  B JAVA
-  C C++
-  D RUBY
-  E KOTLIN
-  F SWIFT
+  - PYTHON
+  - JAVA
+  - C#
+  - C++
+  - RUBY
+  - KOTLIN
+  - SWIFT
+  - PHP
+  - JAVASCRIPT
+  - HTML
 
 
 2. programming Idles
